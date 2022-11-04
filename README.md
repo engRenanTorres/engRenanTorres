@@ -1,9 +1,8 @@
 ### Hi there! Renan Torres here!👋 Olá! eu sou Renan Torres 🤙
 
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](engrtorres@outlook.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5521988988292)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-torres-3ba43560/)
-[![Linkedin](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.engrenantorres.sesmc)
+[![Googleplay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.engrenantorres.sesmc)
+
 
 [![Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=engRenanTorres&theme=dark)](https://github.com/engRenanTorres/github-readme-stats)
 

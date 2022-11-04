@@ -3,12 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-torres-3ba43560/)
 [![Googleplay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.engrenantorres.sesmc)
 
-
-[![Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=engRenanTorres&theme=dark)](https://github.com/engRenanTorres/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engRenanTorres&theme=dark)](https://github.com/engRenanTorres/github-readme-stats)
-
-## Most used tech 🚀
+## My most used tech 🚀
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -22,3 +17,8 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+[![Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=engRenanTorres&theme=dark)](https://github.com/engRenanTorres/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engRenanTorres&theme=dark)](https://github.com/engRenanTorres/github-readme-stats)
+
+

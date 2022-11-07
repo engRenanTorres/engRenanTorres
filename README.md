@@ -18,7 +18,9 @@
   <img align="center" alt="mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-[![Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=engRenanTorres&theme=dark)](https://github.com/engRenanTorres/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engRenanTorres&theme=dark)](https://github.com/engRenanTorres/github-readme-stats)
+
+[![Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=engRenanTorres&theme=radical)](https://github.com/engRenanTorres/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engRenanTorres)](https://github.com/engRenanTorres/github-readme-stats)
 
 
